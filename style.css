@@ -1,32 +1,37 @@
 * {
     box-sizing: border-box;
 }
-.trading-card{
+
+.trading-card {
 	border: 1px solid black;
 	width: 320px;
 	padding: 10px;
 	box-shadow: 10px 10px #d2cbcb;
-
 }
-.image{
+
+.image {
  	width: 300px;
     padding: 1px;
     margin: 1px;
     box-shadow: 
 }
-.fact{
+
+.fact {
 	font-style: italic; 
 }
-.description{
+
+.description {
 	border: 1px solid black;
 	width: 300px;
 	padding:10px;
 }
-.list{
+
+.list {
 	list-style-type: none;
 	margin: 0px;
 	padding: 0px;
 }
-.list span{
+
+.list span {
 	font-weight: bold;
 }
